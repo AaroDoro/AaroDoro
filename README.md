@@ -5,7 +5,7 @@
 </h2>
 <h5 align="left">✿ I'm a second-year Software Engineering student,passionate about programming and working on real-world projects. I'm currently focused on strengthening my core development skills, exploring new technologies, and growing through hands-on experience.</h5>
 
-
+<div align="center">
 <a href="https://github.com/AaroDoro?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
        src="https://img.shields.io/github/followers/Aarodoro?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
