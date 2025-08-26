@@ -1,4 +1,4 @@
-<a href="https://github.com/AaroDoro/AaroDoro/blob/main/lof.gif"><img src="https://github.com/AaroDoro/AaroDoro/blob/main/lof.gif" alt="LOF" style="width:950px; height:450px"/></a>
+<a href="https://github.com/AaroDoro/AaroDoro/blob/main/lof.gif"><img src="https://github.com/AaroDoro/AaroDoro/blob/main/lof.gif" alt="LOF" style="width:950px; height:500px"/></a>
 
 <h2 align="center" style="font-style: italic; text-align: center;" markdown="1">
  🍀 I'm Aarohi Labhane
