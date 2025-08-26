@@ -5,10 +5,6 @@
 </h2>
 <h5 align="left">✿ I'm a second-year Software Engineering student,passionate about programming and working on real-world projects. I'm currently focused on strengthening my core development skills, exploring new technologies, and growing through hands-on experience.</h5>
 
-<div align="center">
-<a href="https://github.com/AaroDoro" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=AaroDoro&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
 
 <a href="https://github.com/AaroDoro?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
