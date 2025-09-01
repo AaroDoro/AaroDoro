@@ -3,7 +3,7 @@
 <h2 align="center" style="font-style: italic; text-align: center;" markdown="1">
  🍀 I'm Aarohi Labhane
 </h2>
-<h5 align="left">✿ I'm a second-year Software Engineering student,passionate about programming and working on real-world projects. I'm currently focused on strengthening my core development skills, exploring new technologies, and growing through hands-on experience.</h5>
+<h5 align="left">✿ I'm a second-year Software Engineering student, passionate about programming and working on real-world projects. I'm currently focused on strengthening my core development skills, exploring new technologies, and growing through hands-on experience.</h5>
 
 <div align="center">
 <a href="https://github.com/AaroDoro?tab=followers" target="_blank">
