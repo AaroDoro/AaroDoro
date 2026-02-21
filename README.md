@@ -20,7 +20,7 @@
 
 </div>
 </br>
-<h3>⌨️ Learning Tools</h3>
+<h3>📑 Learning Tools</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,c,css,git,html,js,python" /><br>
 </div> 
