@@ -11,9 +11,9 @@
 </div> 
 </br>
 <h3 align="center" >🔗 Connect </h3>
+<div align="center">
 <a href="mailto:aarohilabhane121@gmail.com">
   <img align="center" width="30px" style="text-decoration:none" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" /></a> 
 <a href="https://www.linkedin.com/in/aarohi-labhane" target="_blank">
     <img align="center" width="30px" style="text-decoration:none" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /></a>
-
-</div>
+</div> 
